@@ -37,8 +37,8 @@
     background-repeat: no-repeat;
 }
 .container{
-    margin-left:20%;    
-    margin-right:20%;
+    margin-left:10%;    
+    margin-right:10%;
     height:700px;
 }
 #tourpalce ul li{
@@ -133,12 +133,36 @@
 .details{
     width: 40%;
     float:left;
-    background-color: aqua;
     height:700px;
 }
 .sendfd {
     width: 60%;
     float: right;
-    background-color: rgb(0, 255, 85);
     height:700px;
+}
+.details img{
+    padding-left:20px;
+    padding-top:20px;
+}
+.details table{
+    padding-left:20px;
+}
+.details table tr{
+   height:50px;
+}
+.sendfd h5{
+    background-color: blanchedalmond;
+    color: black;
+    text-align: center;
+
+}
+.sendfd table{
+    padding-top:50px;
+}
+.footer p b{
+    background-color: rgb(167, 169, 170);
+    
+}
+.detbody{
+    height: 743px;
 }
