@@ -39,6 +39,7 @@
 .container{
     margin-left:20%;    
     margin-right:20%;
+    height:700px;
 }
 #tourpalce ul li{
     float:left;
@@ -52,11 +53,7 @@
     width:100%;
     height: 130px;
 }
-.container  {
-  
-   
-    
-}
+
 .container #content h1{
     padding-top: 200px;
     color:red;
@@ -86,18 +83,27 @@
 .footer{
     background-color: rgba(166, 172, 177, 0.76);
     height: 20px;
-    margin-top:210px;
+    margin-top:0px;
     
 }
 .footer p{
     text-align: center;
+}
+.places{
+    background-color: blanchedalmond;
+    margin-left: 90px;
+    margin-right: 90px;
+    height: 1000px;
+}
+.places h1{
+    margin-left:90px;
 }
 .places ul li{
     float:left;
     list-style: none;
     margin-left:50px;
     margin-bottom: 40px;
-    background-color:yellow;
+    background-color:white;
     width: 20%;
     height:250px;
 }
@@ -112,6 +118,9 @@
 .places ul li span{
     text-align: center;
     padding-left: 40%;
+    color: blueviolet;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
 }
 .places ul li h4{
     background-color:blue;
@@ -120,4 +129,16 @@
     margin-top:50px;
     text-align: center;
     color: antiquewhite;
+}
+.details{
+    width: 40%;
+    float:left;
+    background-color: aqua;
+    height:700px;
+}
+.sendfd {
+    width: 60%;
+    float: right;
+    background-color: rgb(0, 255, 85);
+    height:700px;
 }
