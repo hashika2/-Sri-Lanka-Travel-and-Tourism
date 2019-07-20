@@ -92,3 +92,32 @@
 .footer p{
     text-align: center;
 }
+.places ul li{
+    float:left;
+    list-style: none;
+    margin-left:50px;
+    margin-bottom: 40px;
+    background-color:yellow;
+    width: 20%;
+    height:250px;
+}
+.places ul li img{
+    margin-top: 0%;
+    margin-left:35px;
+    margin-right:35px;
+    margin-bottom: 10px;
+    width: 80%;
+    height: 100px;
+}
+.places ul li span{
+    text-align: center;
+    padding-left: 40%;
+}
+.places ul li h4{
+    background-color:blue;
+    width: 100%;
+    height: 20px;
+    margin-top:50px;
+    text-align: center;
+    color: antiquewhite;
+}
