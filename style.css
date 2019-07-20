@@ -52,14 +52,24 @@
     width:100%;
     height: 130px;
 }
-.container .content h1{
-    padding-top: 200px;
+.container  {
+  
+   
+    
 }
+.container #content h1{
+    padding-top: 200px;
+    color:red;
+}
+.container #content h3{
+    color: blue;
+}
+
 .container .leftcont{
     float: left;
     width:50%;
     height: 200px;
-    background-color: aqua;
+    background-color: rgb(191, 194, 189);
 
 }
 .container .rightcont {
@@ -68,4 +78,17 @@
     height:200px;
     background-color:blue;
 
+}
+.container .rightcont p{
+    padding:20px;
+    color:white;
+}
+.footer{
+    background-color: rgba(166, 172, 177, 0.76);
+    height: 20px;
+    margin-top:210px;
+    
+}
+.footer p{
+    text-align: center;
 }
