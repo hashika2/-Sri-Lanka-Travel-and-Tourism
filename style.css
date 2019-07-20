@@ -28,6 +28,9 @@
 
       
 }
+.list ul a li:hover{
+    color: brown;
+}
 .slide-show{
     background-image:url("images/bg2.jpg");
     width: 100%;
