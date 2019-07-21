@@ -157,6 +157,9 @@
 .details table tr{
    height:50px;
 }
+.details table tr td input{
+    width:300px;
+}
 .sendfd h5{
     background-color: blanchedalmond;
     color: black;
@@ -172,4 +175,7 @@
 }
 .detbody{
     height: 743px;
+}
+.check{
+     padding-left:20px;
 }
